@@ -1,0 +1,42 @@
+@charset "utf-8";
+.company {
+	width: 970px;
+	margin: 0 auto;
+	background: url(../images/company/companyBgImg.jpg) right 689px no-repeat;
+}
+h1 {
+	margin: 0 auto 10px auto;
+	font-size: 18px;
+	line-height: 40px;
+	border-bottom: #CCCCCC 1px dashed;
+}
+.task {
+	margin: 10px;
+	overflow: hidden;
+}
+.task img {
+	float: left;
+}
+.introduct_text {
+	width: 340px;
+	margin: 50px 30px 0 0;
+	float: right;
+}
+.company .title {
+	font-size: 18px;
+	line-height: 40px;
+	margin: 10px 0;
+}
+.company p {
+	font-size: 16px;
+	line-height: 28px;
+	color: #666666;
+	text-indent: 2em;
+}
+.profile,
+.culture,
+.team {
+	width: 520px;
+	overflow: hidden;
+	margin: 20px 0 20px 30px;
+}

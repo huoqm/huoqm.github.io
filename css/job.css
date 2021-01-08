@@ -1,0 +1,36 @@
+@charset "utf-8";
+.banner {
+	width: 970px;
+	margin: 0 auto;
+}
+.job {
+	width: 970px;
+	margin: 0 auto;
+}
+h1 {
+	margin: 0 auto 10px auto;
+	font-size: 18px;
+	line-height: 40px;
+	border-bottom: #CCCCCC 1px dashed;
+}
+.job_introduce {
+	margin: 10px auto;
+	overflow: hidden;
+}
+.job_introduce img {
+	float: left;
+}
+.job_introduce .job_introduce_text {
+	float: left;
+	width: auto;
+	margin: 50px 0 0 50px;
+}
+.job p {
+	font-size: 14px;
+	line-height: 25px;
+	color: #666666;
+}
+.job .title {
+	font-size: 16px;
+	line-height: 40px;
+}

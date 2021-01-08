@@ -1,0 +1,54 @@
+@charset "utf-8";
+.history {
+	width: 970px;
+	margin: 0 auto;
+}
+h1 {
+	margin: 0 auto 10px auto;
+	font-size: 18px;
+	line-height: 40px;
+	border-bottom: #CCCCCC 1px dashed;
+}
+.history>p {
+	font-size: 16px;
+	line-height: 24px;
+	margin: 20px auto;
+	overflow: hidden;
+}
+.history img{
+	margin: 20px 0;
+}
+/*.history_box {
+	margin: 20px auto;
+	background: url(../images/historyLine.png) top center no-repeat;
+}
+.history01 {
+	overflow: hidden;
+}
+.history01 p {
+	width: 200px;
+	margin: 40px 100px 0 0;
+	float: right;
+	font-size: 16px;
+	line-height: 30px;
+}
+.history02 {
+	overflow: hidden;
+}
+.history02 p {
+	width: 200px;
+	margin: 20px 0 0 100px;
+	float: left;
+	font-size: 16px;
+	line-height: 30px;
+}
+.history03 {
+	overflow: hidden;
+}
+.history03 p {
+	width: 200px;
+	margin: -5px 100px 0 0;
+	float: right;
+	font-size: 16px;
+	line-height: 30px;
+}*/

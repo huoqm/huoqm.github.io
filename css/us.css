@@ -1,0 +1,47 @@
+@charset "utf-8";
+.us {
+	width: 970px;
+	margin: 0 auto;
+}
+h1 {
+	margin: 0 auto 10px auto;
+	font-size: 18px;
+	line-height: 40px;
+	border-bottom: #CCCCCC 1px dashed;
+}
+.map {
+	width: 970px;
+	margin: 0 auto;
+	position: relative;
+}
+.map img {
+	margin: 20px auto;
+}
+.addressBgImg {
+	width: 286px;
+	height: 150px;
+	position: absolute;
+	left: 600px;
+	top: 100px;
+	background: #FFFFFF;
+	border: #CCCCCC 1px solid;
+	border-radius: 10px;
+	filter: alpha(opacity=80);
+	-moz-opacity: 0.8;
+	opacity: 0.8;
+	z-index: 1;
+}
+.address {
+	width: 286px;
+	padding: 20px 0 0 30px;
+	position: absolute;
+	left: 600px;
+	top: 90px;
+	overflow: hidden;
+	z-index: 2;
+}
+.address p {
+	width: auto;
+	font-size: 16px;
+	line-height: 32px;
+}

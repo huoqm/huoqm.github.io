@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+.banner {
+	margin: 0 auto;
+	width: 970px;
+}
+
+.share {
+	margin: 0 auto;
+	width: 970px;
+}
+
+h1 {
+	margin: 0 auto 10px auto;
+	border-bottom: #CCCCCC 1px dashed;
+	font-size: 18px;
+	line-height: 40px;
+}
+
+.share_box {
+	overflow: hidden;
+	margin: 20px auto;
+	padding: 0 0 20px 0;
+	width: 920px;
+	border-bottom: #CCCCCC 1px solid;
+}
+
+.share_box img {
+	float: left;
+}
+
+.share_container {
+	float: right;
+	margin: 5px auto;
+	width: 760px;
+}
+
+.share_container .title {
+	font-size: 18px;
+}
+
+.share_container .text {
+	margin: 20px auto 0 auto;
+	width: 760px;
+	font-size: 12px;
+	line-height: 20px;
+}
