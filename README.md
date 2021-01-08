@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-你好
-=======
-## Welcome to GitHub Pages
->>>>>>> main
+你啊，未来！
